@@ -15,7 +15,7 @@ try:
             print(f"The result is: {a*b}")
         case "/":
             print(f"The result is: {a/b}")
-        case defoult:
+        case default:
             print(f"There was an error ")
 
 except Exception as e:
