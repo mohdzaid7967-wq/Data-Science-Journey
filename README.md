@@ -1,98 +1,101 @@
-# 🧠 Python Quiz Game
+# 🚀 Data Science Journey
 
-A simple command-line quiz game built using Python. The program asks multiple-choice questions, checks the user's answers, and rewards points for each correct response.
+Welcome to my **Data Science Journey** repository.
 
----
-
-## 📌 Features
-
-- Multiple-choice questions (MCQs)
-- 11 general knowledge questions
-- Instant answer validation
-- Prize money after every correct answer
-- Game ends immediately after an incorrect answer
-- Simple and beginner-friendly Python project
+This repository documents my continuous learning path in **Data Science, Machine Learning, and Artificial Intelligence**. It serves as a centralized collection of my practice programs, mini projects, hands-on exercises, and real-world implementations as I develop practical skills in data analysis and predictive modeling.
 
 ---
 
-## 🛠 Technologies Used
+## 🎯 Objective
 
-- Python 3
-- Lists
-- Loops
-- Conditional Statements
-- User Input
-- String Formatting
+My goal is to build a strong foundation in Data Science by learning concepts from the ground up, implementing them through code, and solving real-world problems using Python and Machine Learning.
 
 ---
 
-## 📂 Project Structure
+## 📚 Learning Roadmap
+
+- 🐍 Python Programming
+- 💻 Python Mini Projects
+- 🔢 NumPy
+- 🐼 Pandas
+- 📊 Matplotlib
+- 📈 Seaborn
+- 🧹 Data Cleaning & Preprocessing
+- 📉 Exploratory Data Analysis (EDA)
+- 🤖 Machine Learning
+- 🧠 Deep Learning
+- 🗄 SQL
+- 📋 Statistics & Mathematics
+
+---
+
+## 📂 Repository Structure
 
 ```text
-Quiz-Game/
+Data-Science-Journey/
 │
-├── quiz_game.py
-├── README.md
-└── output.png
+├── Python-Basics/
+├── Python-Mini-Projects/
+├── NumPy/
+├── Pandas/
+├── Matplotlib/
+├── Seaborn/
+├── Data-Analysis/
+├── Machine-Learning/
+├── Deep-Learning/
+└── README.md
 ```
 
 ---
 
-## ▶️ How to Run
+## 🛠 Technologies & Tools
 
-1. Open the project folder in VS Code.
-2. Open the terminal.
-3. Run the following command:
-
-```bash
-python quiz_game.py
-```
-
----
-
-## 🎮 Example Gameplay
-
-```text
-Who is Shah Rukh Khan?
-
-a. WWE Wrestler
-b. Plumber
-c. Actor
-d. Astronaut
-
-Enter your answer. 1 for a, 2 for b, 3 for c, 4 for d
-
-3
-
-Correct Answer
-
-You won 100000
-```
+- Python
+- Jupyter Notebook
+- Visual Studio Code
+- Git & GitHub
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
 
 ---
 
-## 📷 Output
+## 🌱 Current Progress
 
-Add a screenshot of your program and save it as **output.png**.
-
-```md
-![Quiz Game Output](output.png)
-```
+This repository is actively maintained. New topics, projects, and practical implementations are added regularly as I continue my learning journey.
 
 ---
 
-## 🚀 Future Improvements
+## 📌 Repository Highlights
 
-- Add lifelines (50:50, Audience Poll)
-- Shuffle questions randomly
-- Store high scores
-- Add timer for each question
-- Improve user interface
+- Beginner-friendly Python programs
+- Hands-on coding exercises
+- Mini Projects
+- Data Analysis notebooks
+- Machine Learning implementations
+- Well-organized folder structure
+- Clean and readable code
 
 ---
 
-## 👨‍💻 Author
+## 🎯 Future Goals
 
-**Mohd Zaid**
+- Build end-to-end Machine Learning projects
+- Explore Deep Learning and NLP
+- Participate in Kaggle competitions
+- Develop production-ready AI applications
+- Strengthen problem-solving and analytical skills
 
-Aspiring Data Scientist | Python Enthusiast | Continuous Learner
+---
+
+## 🤝 Connect With Me
+
+Feel free to explore this repository, share feedback, or suggest improvements.
+
+⭐ If you find this repository useful, consider giving it a star.
+
+---
+
+**Happy Learning! 🚀**
