@@ -95,4 +95,8 @@ Add a screenshot of your program and save it as **output.png**.
 
 **Mohd Zaid**
 
+<<<<<<< HEAD
 Aspiring Data Scientist | Python Enthusiast | Continuous Learner
+
+Aspiring Data Scientist | Python Enthusiast | Continuous Learner
+

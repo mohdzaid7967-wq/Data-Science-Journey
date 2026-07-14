@@ -98,4 +98,8 @@ Feel free to explore this repository, share feedback, or suggest improvements.
 
 ---
 
+<<<<<<< HEAD
 **Happy Learning! 🚀**
+=======
+**Happy Learning! 🚀**
+>>>>>>> 347a05c (Added README for Millionaire Game)
