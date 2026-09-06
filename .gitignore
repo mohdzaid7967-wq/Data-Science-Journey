@@ -22,3 +22,21 @@ env/
 # OS files
 .DS_Store
 Thumbs.db
+
+
+secrete_key.py
+
+# TensorBoard logs
+logs/
+*.tfevents*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# TensorBoard
+logs/
+*.tfevents*
+
+# Large datasets / archives
+*.tar.gz
+IMDB Dataset.csv
