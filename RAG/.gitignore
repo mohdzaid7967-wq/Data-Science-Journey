@@ -1,0 +1,15 @@
+# Ignore virtual environments
+venv/
+.venv/
+env/
+
+# Ignore vector storage data
+data/vector/
+chroma_db/
+
+# Ignore large PDFs if you don't want them tracked on GitHub
+*.pdf
+
+# Ignore Python caches
+__pycache__/
+*.pyc
